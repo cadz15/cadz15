@@ -1,30 +1,45 @@
-# React + TypeScript + Vite
+# Junatan Marc W. Cadayona's Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my GitHub portfolio! I am a passionate and skilled Web Developer with experience in a variety of technologies. Here you'll find a collection of projects that showcase my expertise and contributions to the field.
 
-Currently, two official plugins are available:
+## Projects
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### 1. [Human Resource Management Information System](hrmis.southernleytestateu.edu.ph)
+-  Worked on the Human Resource Management Information System (HRMIS) project using PHP, MySQL, JQuery, Vuejs, and Laravel.
+- Played a key role in the development and maintenance of HRMIS, ensuring its functionality met the university's requirements.
 
-## Expanding the ESLint configuration
+### 2. [Magma - Teacher Directory]
+- Developed a Teacher Directory system using PHP, Laravel, and JQuery.
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+### 3. [Scholar Profiling Information System (Front-end)]
+- Contributed to the front-end development of the Scholar Profiling Information System using Reactjs, APIs, and Zustand.
+### 4. [Registrar Records Management System (RRMS)]
+- Led the development of RRMS using React Native, PHP, Laravel, APIs, and Zustand.
+- Developed the front-end interface, created APIs to connect to the mobile app, and built the mobile app using React Native.
+- Integrated third-party technologies including Semaphore for SMS functionality and Paymongo for billing solutions.
 
-- Configure the top-level `parserOptions` property like this:
+## Skills
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
+- **Programming Languages:** PHP, JavaScript (JQuery, Vuejs, Reactjs)
+- **Database:** MySQL
+- **Frameworks:** Laravel
+- **Front-end:** HTML, CSS, JavaScript
+- **State Management:** Zustand
+- **Mobile App Development:** React Native
+- **Version Control:** Git
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+## Education
+
+- Bachelor of Science in Information Technology
+  - Southern Leyte State University, 2015
+
+## Contact
+
+- Email: [m4rc24@yahoo.com](mailto:m4rc24@yahoo.com)
+- LinkedIn: [linkedin.com/in/m4rcj0hn](https://www.linkedin.com/in/m4rcj0hn)
+
+## Connect With Me
+
+Feel free to explore the repositories and connect with me on LinkedIn! I am always open to collaboration and new opportunities.
+
+Happy coding!
