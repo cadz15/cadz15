@@ -17,7 +17,7 @@ Welcome to my GitHub portfolio! I am a passionate and skilled Web Developer with
 
 -   Contributed to the front-end development of the Scholar Profiling Information System using Reactjs, APIs, and Zustand.
 
-### 4. [Registrar Records Management System (RRMS)]
+### 4. [Registrar Records Management System (RRMS)](https://recordsandepayment.com/)
 
 -   Led the development of RRMS using React Native, PHP, Laravel, APIs, and Zustand.
 -   Developed the front-end interface, created APIs to connect to the mobile app, and built the mobile app using React Native.
@@ -40,7 +40,7 @@ Welcome to my GitHub portfolio! I am a passionate and skilled Web Developer with
 
 ## Contact
 
--   Email: [m4rc24@yahoo.com](mailto:m4rc24@yahoo.com)
+-   Email: [cadayonajunatanmarc@gmail.com](mailto:cadayonajunatanmarc@gmail.com)
 -   LinkedIn: [linkedin.com/in/m4rcj0hn](https://www.linkedin.com/in/m4rcj0hn)
 
 ## Connect With Me
