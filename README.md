@@ -41,7 +41,7 @@ Welcome to my GitHub portfolio! I am a passionate and skilled Web Developer with
 ## Contact
 
 -   Email: [cadayonajunatanmarc@gmail.com](mailto:cadayonajunatanmarc@gmail.com)
--   LinkedIn: [linkedin.com/in/m4rcj0hn](https://www.linkedin.com/in/m4rcj0hn)
+-   LinkedIn: [linkedin.com/in/jmcadayona](https://www.linkedin.com/in/jmcadayona)
 
 ## Connect With Me
 
